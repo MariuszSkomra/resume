@@ -1,6 +1,6 @@
-# Empik Foto Sp. z o.o.
+## Empik Foto Sp. z o.o.
 
-## Automation tester
+### Automation tester
 
 *01.2025 – current*
 
@@ -9,9 +9,9 @@
 - Development and maintenance of automated tests project
 - Create tools for reporting and notification about tests results
 
-# Inetum Polska Sp. z o.o.
+## Inetum Polska Sp. z o.o.
 
-## Senior Test Engineer
+### Senior Test Engineer
 
 *04.2022 – 12.2024*
 
@@ -28,7 +28,7 @@
 - Active participation in the code review process
 - Working in the English language
 
-## Technical Leader
+### Technical Leader
 
 *04.2022 – 03.2024*
 
@@ -36,9 +36,9 @@
 - Advice on the selection of training courses for testers, coordination of the necessary activities between management and testers
 - Supporting the professional development of testers
 
-# JCommerce Sp. z o.o.
+## JCommerce Sp. z o.o.
 
-## Technical Leader
+### Technical Leader
 
 *03.2020 – 04.2022*
 
@@ -50,7 +50,7 @@
 - Creation of industry articles (mainly in the field of automated testing) for the company blog
 - Co-creation of the JTester Academy internship program
 
-## Senior Test Engineer
+### Senior Test Engineer
 
 *03.2020 – 04.2022*
 
@@ -66,7 +66,7 @@
 - Working in the English language
 - Acting as a team leader
 
-## Test Engineer
+### Test Engineer
 
 *05.2018 – 03.2020*
 
@@ -80,7 +80,7 @@
 - Working with the DevOps team and multiple development teams
 - Working in the Polish language
 
-## Junior Test Engineer
+### Junior Test Engineer
 
 *01.2017 - 05.2018*
 

@@ -1,4 +1,7 @@
-# About me
+---
+hide:
+    - navigation
+---
 
 I am a QA with 8 years of experience in test automation, both creating new projects from scratch and developing existing ones.
 

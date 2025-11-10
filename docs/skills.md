@@ -15,7 +15,7 @@
 - JMeter (basics)
 - k6 (basics)
 
-# Databases
+## Databases
 - PostgreSQL
 - MongoDB
 - Neo4J
