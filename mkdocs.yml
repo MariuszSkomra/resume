@@ -33,3 +33,10 @@ theme:
     - navigation.top
     - toc.follow
     - toc.integrate
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/mariuszskomra/
+    - icon: fontawesome/brands/github
+      link: https://github.com/MariuszSkomra
+copyright: Copyright &copy; 2025 Mariusz Skomra
