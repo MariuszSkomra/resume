@@ -1,6 +1,6 @@
 name: publish
 on:
-  workflow_run:
+  workflow_dispatch:
 jobs:
   publish:
     runs-on: ubuntu-latest
