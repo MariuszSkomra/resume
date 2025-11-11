@@ -1,0 +1,9 @@
+name: publish
+on:
+  workflow_run:
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v4
