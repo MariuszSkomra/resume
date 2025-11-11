@@ -1,9 +1,19 @@
 name: publish
 on:
   workflow_dispatch:
+permissions:
+  contents: write
 jobs:
   publish:
     runs-on: ubuntu-latest
     steps:
       - name: checkout
         uses: actions/checkout@v4
+      - name: install python
+        uses: actions/setup-python@v5
+        with:
+          python-version: 3.14.0
+      - name: install mkdocs material
+        run: pip install mkdocs-material
+      - name: publish gh-page
+        run: mkdocs gh-deploy
