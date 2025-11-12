@@ -1,7 +1,6 @@
 site_name: Mariusz Skomra
 nav:
-  - Home: index.md
-  - About: about.md
+  - About: index.md
   - Projects: projects.md
   - Experience: experience.md
   - Skills: skills.md
