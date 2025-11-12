@@ -7,6 +7,9 @@ nav:
   - Education: education.md
 theme:
   name: material
+  icon:
+    logo: material/file-document
+  favicon: material/file-document
   palette:
     - media: "(prefers-color-scheme)"
       toggle:
