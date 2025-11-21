@@ -1,13 +1,15 @@
 site_name: Mariusz Skomra
 nav:
-  - Home: index.md
-  - About: about.md
+  - About: index.md
   - Projects: projects.md
   - Experience: experience.md
   - Skills: skills.md
   - Education: education.md
 theme:
   name: material
+  icon:
+    logo: material/file-document
+  favicon: material/file-document
   palette:
     - media: "(prefers-color-scheme)"
       toggle:
