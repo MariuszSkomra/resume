@@ -16,4 +16,4 @@ jobs:
       - name: install mkdocs material
         run: pip install mkdocs-material
       - name: publish gh-page
-        run: mkdocs gh-deploy
+        run: mkdocs gh-deploy --force
