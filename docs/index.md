@@ -3,7 +3,11 @@ hide:
     - navigation
 ---
 
-I am a QA with 8 years of experience in test automation, both creating new projects from scratch and developing existing ones.
+![Twoje zdjęcie](images/MariuszSkomra.jpg){ align=left }
+
+Hi! 
+
+My name is Mariusz Skomra. I am a QA with 8 years of experience in test automation, both creating new projects from scratch and developing existing ones.
 
 I have programming experience in Java, Kotlin and TypeScript. I have automated GUI, API and database tests using tools such as Selenium, Selenide, RestAssured and Playwright. I have worked with CI/CD tools, integrating them into test projects from scratch and developing existing solutions.
 
